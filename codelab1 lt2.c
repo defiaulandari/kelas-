@@ -4,7 +4,7 @@ int main()
 {
 	int sapi1,sapi2,sapi4;
 	float sapi3;
-	Kambing=221.12;
+	int Kambing = 221.12;
 
     printf("Masukkan Berat Sapi 1 : ");
     scanf("%d", &sapi1);

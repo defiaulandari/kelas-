@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
 	int usia,pilih,pilihseat;

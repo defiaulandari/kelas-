@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Defia
+
 int main()
 {
 	int Matematika,Fisika,Biologi;
